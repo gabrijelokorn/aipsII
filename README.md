@@ -1,1 +1,1 @@
-V tem repozitoriju so shranjene razni programerksi primeri algoritmov, za različne načine reševevanja problemov. Nanaša se na predmet AIPSII
+Repozitorij se nanaša se na predmet AIPSII. To so shranjeni razni programerksi primeri algoritmov, za različne načine reševevanja problemov. Grem po Robičevi knjigi in delam vse algoritme, ki jih predmet obsega, ker sem se odločil, da ne bom več hodil na predavanja.
