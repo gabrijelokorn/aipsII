@@ -2,7 +2,7 @@ Imamo neurejeno množico števil T, ki jo želimo urediti po velikosti.
 
 Algoritem countsort, nam bom omogočil, da to množico uredimo v času **O(n + k)**, kjer je n število elementov in k razpon vrednosti za elemente n.
 
-**Postopek countsort-a:**
+**Postopek countsort**:
 
 - ustvarimo polje **c**, velikosti **k**, v takterga pišemo število elementov z lastnostjo s pripadajočim indeksom
 - sprehodimo se po polju **c** in vsakemu indeksu prištejemo število vseh števil do tega indeksa
