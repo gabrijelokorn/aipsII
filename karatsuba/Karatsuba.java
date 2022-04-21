@@ -33,10 +33,10 @@ public class Karatsuba {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Vnesite dve števili, ločeni s presledkom: ");
+
         int a = sc.nextInt();
         int b = sc.nextInt();
-
-        System.out.println("Vnesite dve števili, ločeni s presledkom: ");
 
         int c = karatsuba(a, b);
         System.out.println(c + " =?= " + a * b);
