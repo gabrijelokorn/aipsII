@@ -1,6 +1,6 @@
 Imamo neurejeno množico števil T, ki jo želimo urediti po velikosti.
 
-Algoritem countsort, nam bom omogočil, da to množico uredimo v času O(log n), kjer je n število elementov.
+Algoritem quicksort, nam bom omogočil, da to množico uredimo v času O(log n), kjer je n število elementov.
 
 **Postopek quicksort**:
 - določimo pivot *(prvi element/ zadnji element / srednji element / povrpečje prvega in zadnjega)*
